@@ -1,5 +1,5 @@
 if(('serviceWorker' in navigator && "Worker" in window) === false) {
-    alert("merde")
+    alert("Tu vas me faire le plaisir de mettre à jour ton navigateur ! Sinon, je te brise")
     return
 }
 
